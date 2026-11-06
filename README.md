@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/WelcomeBannerREADME.gif" width="100%" alt="Banner Hola Mundo soy María,bienvenido" />
+  <img src="images/WelcomeBannerREADME.gif" width="70%" alt="Banner Hola Mundo soy María,bienvenido"/>
 </p>
 
 ## Sobre mí
@@ -10,6 +10,7 @@ Me gusta investigar, recopilar información y experimentar con lo que voy aprend
 <img src="images/TortugaSeccionSobreMi.png" align="right" width="150" alt="Tortuga saludando"/>
 
 ## Áreas de Interés
+
 
 ## Habilidades y Tecnologías
 
