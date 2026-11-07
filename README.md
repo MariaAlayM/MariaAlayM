@@ -57,11 +57,11 @@ También me gustaría seguir aprendiendo sobre desarrollo web y de aplicaciones,
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com)
 
 ## Proyectos Destacados
-| Proyecto | Descripción | Tecnologías Utilizadas |
-| --- | --- | --- |
-| [Proyecto02-ChoqueGeneracional](https://github.com/RomeroAbraham/Proyecto02-ChoqueGeneracional) | Sitio web interactivo que explora la evolución de los juegos entre generaciones pasadas y actuales en Guayaquil. La información se recopiló mediante entrevistas y se presentó en el sitio web aplicando los conocimientos adquiridos en la materia de Desarrollo de Aplicaciones Web y Móviles. | `SCSS` `CSS` `HTML` `JavaScript` |
-| [Motor_BD_Java](https://github.com/Omarplay11/Motor_BD_Java) | Programa en Java capaz de simular el funcionamiento interno de un motor SQL tradicional mediante archivos CSV. Para ello, se aplicaron conceptos de teoría de conjuntos, tuplas y operaciones relacionales. | `Java` `Archivos CSV` |
-| [POO4_1P_ALAY_ALBARRACIN_ESCOBAR](https://github.com/MariaAlayM/POO4_1P_ALAY_ALBARRACIN_ESCOBAR) | Aplicación de consola desarrollada en Java que simula el funcionamiento básico de un sistema de venta de productos en línea. Fue mi primer proyecto de programación desarrollado y publicado en GitHub junto con mis compañeros. En él se aplicaron conceptos de POO, como sus cuatro pilares y la sobrecarga de métodos. | `Java` `Javadoc` `Archivos TXT` |
+| Proyecto | Descripción | Tecnologías Utilizadas | Demo |
+| --- | --- | --- | --- |
+| [Proyecto02-ChoqueGeneracional](https://github.com/RomeroAbraham/Proyecto02-ChoqueGeneracional) | Sitio web interactivo que explora la evolución de los juegos entre generaciones pasadas y actuales en Guayaquil. La información se recopiló mediante entrevistas y se presentó en el sitio web aplicando los conocimientos adquiridos en la materia de Desarrollo de Aplicaciones Web y Móviles. | `SCSS` `CSS` `HTML` `JavaScript` | https://romeroabraham.github.io/Proyecto02-ChoqueGeneracional/ |
+| [Motor_BD_Java](https://github.com/Omarplay11/Motor_BD_Java) | Programa en Java capaz de simular el funcionamiento interno de un motor SQL tradicional mediante archivos CSV. Para ello, se aplicaron conceptos de teoría de conjuntos, tuplas y operaciones relacionales. | `Java` `Archivos CSV` | No posee demo |
+| [POO4_1P_ALAY_ALBARRACIN_ESCOBAR](https://github.com/MariaAlayM/POO4_1P_ALAY_ALBARRACIN_ESCOBAR) | Aplicación de consola desarrollada en Java que simula el funcionamiento básico de un sistema de venta de productos en línea. Fue mi primer proyecto de programación desarrollado y publicado en GitHub junto con mis compañeros. En él se aplicaron conceptos de POO, como sus cuatro pilares y la sobrecarga de métodos. | `Java` `Javadoc` `Archivos TXT` | No posee demo |
 
 
 ## Mi Estadísticas de GitHub
