@@ -3,12 +3,12 @@
 </p>
 
 ## Sobre mí
+<img src="images/TortugaSeccionSobreMi.png" align="right" width="150" alt="Tortuga saludando"/>
+
 Mi nombre es María Alay y soy estudiante de 5to semestre de Ingeniería en Computación en la Escuela Superior Politécnica del Litoral (ESPOL). Durante mi carrera universitaria he descubierto lo interesante y diverso que puede ser el mundo de la computación, ya que he disfrutado aprender sobre distintas áreas. Todavía no me he decidido por una en particular, pues cada una tiene algo que despierta mi curiosidad y me motiva a seguir aprendiendo.
 
-<img src="images/TortugaSeccionSobreMi.png" align="right" width="150" alt="Tortuga saludando"/>
 Me gusta investigar, recopilar información y experimentar con lo que voy aprendiendo, por esto continúo explorando 
 nuevas herramientas y conocimientos que me permitan crecer en este campo.
-
 
 ## Áreas de Interés
 Me interesa explorar áreas relacionadas con el desarrollo de software y los sistemas. Tengo curiosidad por las distribuciones Linux y me gustaría experimentar con otras, además de profundizar en la arquitectura de computadores y el lenguaje ensamblador MIPS.
@@ -67,6 +67,12 @@ También me gustaría seguir aprendiendo sobre desarrollo web y de aplicaciones,
 
 ## Proyectos Destacados
 
+## Mi Estadísticas de GitHub
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=MariaAlayM&rank_icon=github&include_all_commits=true&theme=jolly&border_radius=10" alt="Estadísticas en GitHub de María Alay" height="180" />
+
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=MariaAlayM&layout=donut&langs_count=4&theme=jolly&border_radius=10" alt="Top de Lenguajes de María" height="190" />
+</p>
 
 ## Contacto
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:marialaym7@gmail.com)
