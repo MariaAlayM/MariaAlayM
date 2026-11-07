@@ -5,9 +5,10 @@
 ## Sobre mí
 Mi nombre es María Alay y soy estudiante de 5to semestre de Ingeniería en Computación en la Escuela Superior Politécnica del Litoral (ESPOL). Durante mi carrera universitaria he descubierto lo interesante y diverso que puede ser el mundo de la computación, ya que he disfrutado aprender sobre distintas áreas. Todavía no me he decidido por una en particular, pues cada una tiene algo que despierta mi curiosidad y me motiva a seguir aprendiendo.
 
-Me gusta investigar, recopilar información y experimentar con lo que voy aprendiendo, por esto continúo explorando nuevas herramientas y conocimientos que me permitan crecer en este campo.
-
 <img src="images/TortugaSeccionSobreMi.png" align="right" width="150" alt="Tortuga saludando"/>
+Me gusta investigar, recopilar información y experimentar con lo que voy aprendiendo, por esto continúo explorando 
+nuevas herramientas y conocimientos que me permitan crecer en este campo.
+
 
 ## Áreas de Interés
 Me interesa explorar áreas relacionadas con el desarrollo de software y los sistemas. Tengo curiosidad por las distribuciones Linux y me gustaría experimentar con otras, además de profundizar en la arquitectura de computadores y el lenguaje ensamblador MIPS.
@@ -38,7 +39,7 @@ También me gustaría seguir aprendiendo sobre desarrollo web y de aplicaciones,
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](http://git-scm.com/)
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 [![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
-[![GithubGithub Pagespages](https://img.shields.io/badge/github_pages-%23222222.svg?style=for-the-badge&logo=githubpages&logoColor=white&logoSize=auto)](https://docs.github.com/es/pages)
+[![Github Pages](https://img.shields.io/badge/github_pages-%23222222.svg?style=for-the-badge&logo=githubpages&logoColor=white)](https://docs.github.com/es/pages)
 
 ### IDE
 [![Stackblitz](https://img.shields.io/badge/Stackblitz-%23fff.svg?style=for-the-badge&logo=Stackblitz&logoColor=1389FD)](https://stackblitz.com/)
