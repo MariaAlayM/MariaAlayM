@@ -10,7 +10,9 @@ Me gusta investigar, recopilar información y experimentar con lo que voy aprend
 <img src="images/TortugaSeccionSobreMi.png" align="right" width="150" alt="Tortuga saludando"/>
 
 ## Áreas de Interés
+Me interesa explorar áreas relacionadas con el desarrollo de software y los sistemas. Tengo curiosidad por las distribuciones Linux y me gustaría experimentar con otras, además de profundizar en la arquitectura de computadores y el lenguaje ensamblador MIPS.
 
+También me gustaría seguir aprendiendo sobre desarrollo web y de aplicaciones, especialmente en el diseño y organización de interfaces. Otro de mis intereses es el desarrollo de videojuegos, donde me gustaría combinar la creatividad del arte con la lógica de la computación, tanto en sus conceptos visuales como en sus mecánicas.
 
 ## Habilidades y Tecnologías
 ### Lenguajes de Programación
@@ -66,3 +68,5 @@ Me gusta investigar, recopilar información y experimentar con lo que voy aprend
 
 
 ## Contacto
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:marialaym7@gmail.com)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mar%C3%ADa-alay-a4763a375/)
