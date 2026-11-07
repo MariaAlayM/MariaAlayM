@@ -13,6 +13,18 @@ nuevas herramientas y conocimientos que me permitan crecer en este campo.
 ## Áreas de Interés
 Me interesa explorar áreas relacionadas con el desarrollo de software y los sistemas. Tengo curiosidad por las distribuciones Linux y me gustaría experimentar con otras, además de profundizar en la arquitectura de computadores y el lenguaje ensamblador MIPS.
 
+<p align="center">
+  <a href="https://lubuntu.me/">
+    <img src="https://img.shields.io/badge/Lubuntu-%230065C2.svg?style=for-the-badge&logo=lubuntu&logoColor=white" />
+  </a>
+  <a href="https://ubuntu.com/">
+    <img src="https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  </a>
+  <a href="https://linuxmint.com/">
+    <img src="https://img.shields.io/badge/Linux%20Mint-%2387CF3E.svg?style=for-the-badge&logo=Linux%20Mint&logoColor=white" />
+  </a>
+</p>
+
 También me gustaría seguir aprendiendo sobre desarrollo web y de aplicaciones, especialmente en el diseño y organización de interfaces. Otro de mis intereses es el desarrollo de videojuegos, donde me gustaría combinar la creatividad del arte con la lógica de la computación, tanto en sus conceptos visuales como en sus mecánicas.
 
 ## Habilidades y Tecnologías
@@ -47,6 +59,9 @@ También me gustaría seguir aprendiendo sobre desarrollo web y de aplicaciones,
 ## Proyectos Destacados
 | Proyecto | Descripción | Tecnologías Utilizadas |
 | --- | --- | --- |
+| [Proyecto02-ChoqueGeneracional](https://github.com/RomeroAbraham/Proyecto02-ChoqueGeneracional) | Sitio web interactivo que explora la evolución de los juegos entre generaciones pasadas y actuales en Guayaquil. La información se recopiló mediante entrevistas y se presentó en el sitio web aplicando los conocimientos adquiridos en la materia de Desarrollo de Aplicaciones Web y Móviles. | `SCSS` `CSS` `HTML` `JavaScript` |
+| [Motor_BD_Java](https://github.com/Omarplay11/Motor_BD_Java) | Programa en Java capaz de simular el funcionamiento interno de un motor SQL tradicional mediante archivos CSV. Para ello, se aplicaron conceptos de teoría de conjuntos, tuplas y operaciones relacionales. | `Java` `Archivos CSV` |
+| [POO4_1P_ALAY_ALBARRACIN_ESCOBAR](https://github.com/MariaAlayM/POO4_1P_ALAY_ALBARRACIN_ESCOBAR) | Aplicación de consola desarrollada en Java que simula el funcionamiento básico de un sistema de venta de productos en línea. Fue mi primer proyecto de programación desarrollado y publicado en GitHub junto con mis compañeros. En él se aplicaron conceptos de POO, como sus cuatro pilares y la sobrecarga de métodos. | `Java` `Javadoc` `Archivos TXT` |
 
 
 ## Mi Estadísticas de GitHub
