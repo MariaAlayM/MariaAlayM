@@ -34,7 +34,7 @@ También me gustaría seguir aprendiendo sobre desarrollo web y de aplicaciones,
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/es/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://www.c-language.org/)
-[![MIPS Assembly](https://img.shields.io/badge/MIPS%20Assembly-darkblue?style=for-the-badge)](https://student.cs.uwaterloo.ca/~cs241/mips/mipsasm.html)
+[![MIPS Assembly](https://img.shields.io/badge/MIPS%20ASSEMBLY-00599C?style=for-the-badge&logo=processor&logoColor=white)](https://student.cs.uwaterloo.ca/~cs241/mips/mipsasm.html)
 
 ### Desarrollo Web
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/es/docs/Glossary/HTML5)
@@ -53,7 +53,7 @@ También me gustaría seguir aprendiendo sobre desarrollo web y de aplicaciones,
 
 ### Herramientas y Entornos de Desarrollo
 [![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
-[![Github Pages](https://img.shields.io/badge/github_pages-%23222222.svg?style=for-the-badge&logo=githubpages&logoColor=white)](https://docs.github.com/es/pages)
+![Github Pages](https://img.shields.io/badge/github_pages-%23222222.svg?style=for-the-badge&logo=githubpages&logoColor=white&logoSize=auto)
 [![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](https://vite.dev/)
 [![JUnit5](https://img.shields.io/badge/JUnit5-%23f5f5f5.svg?style=for-the-badge&logo=junit5&logoColor=dc524a)](https://junit.org/)
 [![GNOME Terminal](https://img.shields.io/badge/gnometerminal-%23ffffff.svg?style=for-the-badge&logo=gnometerminal&logoColor=%23241F31)](https://help.gnome.org/gnome-terminal/)
