@@ -106,7 +106,7 @@ Herramientas utilizadas para diseñar interfaces, elaborar diagramas y documenta
 | [Motor_BD_Java](https://github.com/Omarplay11/Motor_BD_Java) | Programa desarrollado con el propósito de simular el funcionamiento de un motor SQL mediante archivos CSV, aplicando conceptos de Matemáticas Discretas. | `Java` `Archivos CSV` | No posee demo |
 | [POO4_1P_ALAY_ALBARRACIN_ESCOBAR](https://github.com/MariaAlayM/POO4_1P_ALAY_ALBARRACIN_ESCOBAR) | Aplicación de consola desarrollada para demostrar los conocimientos adquiridos en el primer parcial de POO mediante la simulación de un sistema de ventas. | `Java` `Javadoc` `Archivos TXT` | No posee demo |
 
-## Mi Estadísticas de GitHub
+## Mis Estadísticas de GitHub
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=MariaAlayM&rank_icon=github&include_all_commits=true&theme=jolly&v=2" alt="Estadísticas en GitHub de María Alay" height="190" />
 
