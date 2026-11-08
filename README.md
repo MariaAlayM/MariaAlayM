@@ -116,3 +116,13 @@ Herramientas utilizadas para diseñar interfaces, elaborar diagramas y documenta
 ## Contacto
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:marialaym7@gmail.com)
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mar%C3%ADa-alay-a4763a375/)
+
+## Despliegue
+Puedes visitar mi portafolio en GitHub Pages!
+[Ver mi portafolio](https://mariaalaym.github.io/MariaAlayM/)
+
+¡Y gracias por visitar mi perfil! Hasta otra (ᵔ ᵕ ᵔ).
+
+<p align="center">
+  <img src="images/GatoSeccionDespligue.gif" width="25%" alt="Gato despidiendose"/>
+</p>
