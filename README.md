@@ -81,16 +81,17 @@ Herramientas utilizadas para diseñar interfaces, elaborar diagramas y documenta
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 
 ## Aprendizajes y Aplicación de tecnologías en DAWM
+
 | Tecnología | Aprendizajes | Aplicación en proyectos |
-| --- | --- | --- |
+|-----------|-----------|-----------|
 | **HTML5** | Estructuración de páginas web mediante etiquetas semánticas y organización del DOM. | Organización del contenido y las secciones de los sitios web para las entrevistas e historias del Proyecto 02 y el contenido del portafolio del Proyecto 01. |
 | **CSS y SCSS** | Uso de variables, anidamiento, estilos y diseño adaptable con Flexbox y Grid. | Personalización visual y organización modular de los estilos en el Proyecto 02, y distribución de los componentes del Dashboard mediante CSS Grid en el Proyecto 03. |
 | **JavaScript** | Manipulación del DOM, manejo de eventos, interactividad y consumo de datos. | Implementación de elementos interactivos y galerías en el Proyecto 02, además de la representación de datos de entrevistas mediante Chart.js. En el Proyecto 03, aplicación de filtros interactivos para los pedidos. |
 | **TypeScript** | Tipado estático y definición de tipos e interfaces. | Modelado de datos mediante la interfaz Order para trabajar con los 50.000 registros del Dashboard en el Proyecto 03. |
 | **Git y GitHub** | Control de versiones y gestión de repositorios. | Seguimiento de cambios y colaboración en los repositorios de los proyectos. |
 | **GitHub Pages** | Publicación de sitios web estáticos. | Despliegue de los sitios web del Proyecto 01 y Proyecto 02, mediante enlaces públicos. |
-| **Markdown** | 	Sintaxis para estructurar y dar formato a documentos. | Utilizado para elaborar los archivos README de los proyectos, siendo esencial en el Proyecto 01, ya que todo el contenido del portafolio se construye mediante este formato. |
-| **Figma** | 	Diseño de interfaces y creación de prototipos. | Elaboración de propuestas visuales para el Dashboard del Proyecto 03. |
+| **Markdown** | Sintaxis para estructurar y dar formato a documentos. | Utilizado para elaborar los archivos README de los proyectos, siendo esencial en el Proyecto 01, ya que todo el contenido del portafolio se construye mediante este formato. |
+| **Figma** | Diseño de interfaces y creación de prototipos. | Elaboración de propuestas visuales para el Dashboard del Proyecto 03. |
 
 ### Referencia de proyectos de la materia:
 - Proyecto 01: Portafolio de identidad digital.
@@ -98,8 +99,9 @@ Herramientas utilizadas para diseñar interfaces, elaborar diagramas y documenta
 - Proyecto 03: Dashboard interactivo.
 
 ## Proyectos Destacados
+
 | Proyecto | Descripción | Tecnologías Utilizadas | Demo |
-| --- | --- | --- | --- |
+|-----------|-----------|-----------|-----------|
 | [Proyecto02-ChoqueGeneracional](https://github.com/RomeroAbraham/Proyecto02-ChoqueGeneracional) | Sitio web desarrollado para comunicar la interacción entre la comunidad y una actividad cultural, explorando la evolución de los juegos entre generaciones en Guayaquil mediante entrevistas. | `SCSS` `CSS` `HTML5` `JavaScript` | [Choque Generacional](https://romeroabraham.github.io/Proyecto02-ChoqueGeneracional/) |
 | [Motor_BD_Java](https://github.com/Omarplay11/Motor_BD_Java) | Programa desarrollado con el propósito de simular el funcionamiento de un motor SQL mediante archivos CSV, aplicando conceptos de Matemáticas Discretas. | `Java` `Archivos CSV` | No posee demo |
 | [POO4_1P_ALAY_ALBARRACIN_ESCOBAR](https://github.com/MariaAlayM/POO4_1P_ALAY_ALBARRACIN_ESCOBAR) | Aplicación de consola desarrollada para demostrar los conocimientos adquiridos en el primer parcial de POO mediante la simulación de un sistema de ventas. | `Java` `Javadoc` `Archivos TXT` | No posee demo |
