@@ -29,6 +29,8 @@ También me gustaría seguir aprendiendo sobre desarrollo web y de aplicaciones,
 
 ## Habilidades y Tecnologías
 ### Lenguajes de Programación
+Lenguajes utilizados para desarrollar lógica y construir programas.
+
 [![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/es/)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/es/docs/Web/JavaScript)
@@ -37,6 +39,8 @@ También me gustaría seguir aprendiendo sobre desarrollo web y de aplicaciones,
 [![MIPS Assembly](https://img.shields.io/badge/MIPS%20ASSEMBLY-00599C?style=for-the-badge&logo=processor&logoColor=white)](https://student.cs.uwaterloo.ca/~cs241/mips/mipsasm.html)
 
 ### Desarrollo Web
+Tecnologías utilizadas para crear interfaces, estructurar sitios web y desarrollar aplicaciones web.
+
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/es/docs/Glossary/HTML5)
 [![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS)
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://es.react.dev/)
@@ -44,14 +48,20 @@ También me gustaría seguir aprendiendo sobre desarrollo web y de aplicaciones,
 [![MaterialUI](https://img.shields.io/badge/Material%20UI-%23FFFFFF.svg?style=for-the-badge&logo=MUI&logoColor=#007FFF)](https://mui.com/material-ui/)
 
 ### Control de Versiones
+Herramientas para gestionar los cambios y mantener un historial del desarrollo de los proyectos.
+
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](http://git-scm.com/)
 
 ### Bases de Datos
+Sistemas utilizados para almacenar, organizar y consultar información.
+
 [![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/es)
 
 ### Herramientas y Entornos de Desarrollo
+Herramientas y plataformas que facilitan la programación, pruebas y el desarrollo de aplicaciones.
+
 [![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
 [![Github Pages](https://img.shields.io/badge/github_pages-%23222222.svg?style=for-the-badge&logo=githubpages&logoColor=white&logoSize=auto)](https://docs.github.com/es/pages)
 [![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](https://vite.dev/)
@@ -64,6 +74,8 @@ También me gustaría seguir aprendiendo sobre desarrollo web y de aplicaciones,
 [![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white)](https://www.arduino.cc/en/software/)
 
 ### Diseño y Documentación
+Herramientas utilizadas para diseñar interfaces, elaborar diagramas y documentar proyectos.
+
 [![Drawio](https://img.shields.io/badge/drawio-%23F08705.svg?style=for-the-badge&logo=diagrams.net&logoColor=white)](https://www.drawio.com/)
 [![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com)
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
