@@ -53,7 +53,7 @@ También me gustaría seguir aprendiendo sobre desarrollo web y de aplicaciones,
 
 ### Herramientas y Entornos de Desarrollo
 [![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
-[![Github Pages](https://img.shields.io/badge/github_pages-%23222222.svg?style=for-the-badge&logo=githubpages&logoColor=white&logoSize=auto)]((https://docs.github.com/es/pages))
+[![Github Pages](https://img.shields.io/badge/github_pages-%23222222.svg?style=for-the-badge&logo=githubpages&logoColor=white&logoSize=auto)](https://docs.github.com/es/pages)
 [![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](https://vite.dev/)
 [![JUnit5](https://img.shields.io/badge/JUnit5-%23f5f5f5.svg?style=for-the-badge&logo=junit5&logoColor=dc524a)](https://junit.org/)
 [![GNOME Terminal](https://img.shields.io/badge/gnometerminal-%23ffffff.svg?style=for-the-badge&logo=gnometerminal&logoColor=%23241F31)](https://help.gnome.org/gnome-terminal/)
@@ -80,7 +80,7 @@ También me gustaría seguir aprendiendo sobre desarrollo web y de aplicaciones,
 | **Markdown** | 	Sintaxis para estructurar y dar formato a documentos. | Utilizado para elaborar los archivos README de los proyectos, siendo esencial en el Proyecto 01, ya que todo el contenido del portafolio se construye mediante este formato. |
 | **Figma** | 	Diseño de interfaces y creación de prototipos. | Elaboración de propuestas visuales para el Dashboard del Proyecto 03. |
 
-### Referencia de proyectos:
+### Referencia de proyectos de la materia:
 - Proyecto 01: Portafolio de identidad digital.
 - Proyecto 02: Explorando la cultura con la web.
 - Proyecto 03: Dashboard interactivo.
@@ -88,13 +88,13 @@ También me gustaría seguir aprendiendo sobre desarrollo web y de aplicaciones,
 ## Proyectos Destacados
 | Proyecto | Descripción | Tecnologías Utilizadas | Demo |
 | --- | --- | --- | --- |
-| [Proyecto02-ChoqueGeneracional](https://github.com/RomeroAbraham/Proyecto02-ChoqueGeneracional) | Sitio web que explora la evolución de los juegos entre generaciones en Guayaquil, a partir de entrevistas. | `SCSS` `CSS` `HTML5` `JavaScript` | [Choque Generacional](https://romeroabraham.github.io/Proyecto02-ChoqueGeneracional/) |
-| [Motor_BD_Java](https://github.com/Omarplay11/Motor_BD_Java) | Programa en Java que simula un motor SQL mediante archivos CSV y conceptos de Matemáticas Discretas. | `Java` `Archivos CSV` | No posee demo |
-| [POO4_1P_ALAY_ALBARRACIN_ESCOBAR](https://github.com/MariaAlayM/POO4_1P_ALAY_ALBARRACIN_ESCOBAR) | Aplicación de consola en Java que simula un sistema de ventas, aplicando principios de POO. | `Java` `Javadoc` `Archivos TXT` | No posee demo |
+| [Proyecto02-ChoqueGeneracional](https://github.com/RomeroAbraham/Proyecto02-ChoqueGeneracional) | Sitio web desarrollado para comunicar la interacción entre la comunidad y una actividad cultural, explorando la evolución de los juegos entre generaciones en Guayaquil mediante entrevistas. | `SCSS` `CSS` `HTML5` `JavaScript` | [Choque Generacional](https://romeroabraham.github.io/Proyecto02-ChoqueGeneracional/) |
+| [Motor_BD_Java](https://github.com/Omarplay11/Motor_BD_Java) | Programa desarrollado con el propósito de simular el funcionamiento de un motor SQL mediante archivos CSV, aplicando conceptos de Matemáticas Discretas. | `Java` `Archivos CSV` | No posee demo |
+| [POO4_1P_ALAY_ALBARRACIN_ESCOBAR](https://github.com/MariaAlayM/POO4_1P_ALAY_ALBARRACIN_ESCOBAR) | Aplicación de consola desarrollada para demostrar los conocimientos adquiridos en el primer parcial de POO mediante la simulación de un sistema de ventas. | `Java` `Javadoc` `Archivos TXT` | No posee demo |
 
 ## Mi Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=MariaAlayM&rank_icon=github&include_all_commits=true&theme=jolly&border_radius=10" alt="Estadísticas en GitHub de María Alay" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api?username=MariaAlayM&rank_icon=github&include_all_commits=true&theme=jolly&border_radius=10" alt="Estadísticas en GitHub de María Alay" height="190" />
 
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=MariaAlayM&layout=donut&langs_count=4&theme=jolly&border_radius=10" alt="Top de Lenguajes de María" height="190" />
 </p>
