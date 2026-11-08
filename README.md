@@ -108,9 +108,9 @@ Herramientas utilizadas para diseñar interfaces, elaborar diagramas y documenta
 
 ## Mi Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=MariaAlayM&rank_icon=github&include_all_commits=true&theme=jolly&border_radius=10" alt="Estadísticas en GitHub de María Alay" height="190" />
+  <img src="https://github-stats-extended.vercel.app/api?username=MariaAlayM&rank_icon=github&include_all_commits=true&theme=jolly&v=2" alt="Estadísticas en GitHub de María Alay" height="190" />
 
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=MariaAlayM&layout=donut&langs_count=4&theme=jolly&border_radius=10" alt="Top de Lenguajes de María" height="190" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=MariaAlayM&layout=donut&langs_count=4&theme=jolly&v=2" alt="Top de Lenguajes de María" height="190" />
 </p>
 
 ## Contacto
