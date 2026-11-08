@@ -11,7 +11,7 @@ Me gusta investigar, recopilar información y experimentar con lo que voy aprend
 nuevas herramientas y conocimientos que me permitan crecer en este campo.
 
 ## Áreas de Interés
-Me interesa explorar áreas relacionadas con el desarrollo de software y los sistemas. Tengo curiosidad por las distribuciones Linux y me gustaría experimentar con otras, además de profundizar en la arquitectura de computadores y el lenguaje ensamblador MIPS.
+Me interesa explorar áreas relacionadas con el desarrollo de software y los sistemas. Tengo curiosidad por las distribuciones Linux y me gustaría experimentar con más de las que uso actualmente, además de profundizar en la arquitectura de computadores y el lenguaje ensamblador MIPS.
 
 <p align="center">
   <a href="https://lubuntu.me/">
